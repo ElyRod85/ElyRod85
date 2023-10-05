@@ -12,6 +12,7 @@ I'm currently looking for opportunities to switch from freelancing to working in
 
 **Location:** Buenos Aires, Argentina
 
+
 ## What I do :bulb:
 
 ### ✨ Front-End Development & Web Design
@@ -28,6 +29,7 @@ From customizing **themes** and **plugins** to integrating e-commerce functional
 Captivating content, intuitive user experiences, and search engine visibility are paramount. With a keen eye for persuasive **copywriting**, and a deep understanding of **UX** principles, I can optimize contents for maximum impact and **discoverability**.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 ## Let's build something together! :wrench:
 You can find me on [LinkedIn](https://www.linkedin.com/in/eleonorarod85/) or get in touch through the contact form on [my portfolio](https://elyrod85.github.io/ElyPortfolio/).
