@@ -1,6 +1,5 @@
-[![MasterHead](https://elyrod85.github.io/ElyPortfolio/imgs/banner.png)](https://github.com/ElyRod85)
-
-# I'm a  web designer  and  digital media specialist! :dizzy:
+# Hi, I'm Ellie!
+## I'm a  web designer  and  digital media specialist! :dizzy:
 
 **Check [my portfolio](https://elyrod85.github.io/ElyPortfolio/)!**
 
