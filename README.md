@@ -9,6 +9,7 @@ I have experience designing and customizing themes and plugins for  **WordPress*
 I'm currently looking for opportunities to switch from freelancing to working in a company where I can grow professionally.
 
 **Languages spoken:**  Spanish (native) and English (C2)
+
 **Location:** Buenos Aires, Argentina
 
 ## What I do :bulb:
