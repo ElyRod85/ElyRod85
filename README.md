@@ -1,7 +1,7 @@
 # Hi, I'm Ellie! :wave:
 ## I'm a  web designer  and  digital media specialist! :dizzy:
 
-### [Check out my portfolio!](https://elyrod85.github.io/ElyPortfolio/) :blush:
+### [Click here to check out my portfolio!](https://elyrod85.github.io/ElyPortfolio/) :blush:
 
 I have experience designing and customizing themes and plugins for  **WordPress**-based websites, besides being a journalist specialized in online media,  **SEO**, and  **copywriting**, and having formation in project management with  **agile methodologies**.
 
