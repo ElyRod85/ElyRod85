@@ -32,3 +32,5 @@ Captivating content, intuitive user experiences, and search engine visibility ar
 
 ## Let's build something together! :wrench:
 You can find me on [LinkedIn](https://www.linkedin.com/in/eleonorarod85/) or get in touch through the contact form on [my portfolio](https://elyrod85.github.io/ElyPortfolio/).
+
+<a href='https://elyrod85.github.io/ElyPortfolio/' target="_blank"><img src='https://img.shields.io/badge/MY_PORTFOLIO-100000?style=for-the-badge&logo=none&logoColor=565656&labelColor=4F4F4F&color=E48900'/></a> <a href='https://www.linkedin.com/in/eleonorarod85/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0072b1&color=0072b1'/></a>
